@@ -7,7 +7,7 @@ BLitsによるBLノベルゲーム、[Camp Buddy](https://www.blitsgames.com/pro
 ### 注意事項
 
  * パッチにはゲームのデータは含まれていません。ゲーム自体は[ダウンロードページ](https://www.blitsgames.com/product/camp-buddy-demo/)からダウンロードして下さい。
- * このパッチは Demo ver1.3 に対応しています。
+ * このパッチは Demo ver3.0 に対応しています。
 
 ## 設定方法
 
